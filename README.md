@@ -10,6 +10,6 @@ Pour ce projet l'équipe est constitué de :
   - Matthieu (Executant)
   - Hugues-Edouard (Executant)
   - Louis (Executant)
-  - Pape (Executant)
+
 
 
