@@ -12,4 +12,8 @@ Pour ce projet l'équipe est constitué de :
   - Louis (Executant)
   - Pape (Executant)
 
+NEW Partie Hard : 
+
+ATTENTION : Certains fichiers de l'assemblage ont bougé au sein des dossiers il faudra les retrouver les fichiers concernés lors de l'ouverture de l'assemblage
+
 
