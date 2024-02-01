@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"OUTER_DIAMETER";"24";"";
+"REFERENCE";"E 8";"";
+"INNER_DIAMETER";"8";"";
+"TraceParts.PartLanguage";"fr";"";
+"TraceParts.InstanceId";"33-16092021-056654AXQWZ7A1PAIB98KAFJHC4XRKM";"";
+"TraceParts.PartNumber";"33-16092021-056654";"";
+"TraceParts.PartTitle";"Roulements à billes à épaulement - Série E";"";
+"SUPPLIER";"Hans Saurer Kugellager AG";"";
+"DESIGN";"Roulements à billes à épaulement, Série E, Diamètre extérieur 24 mm, Diamètre intérieur 8 mm - E 8";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"WIDTH";"7";"";
+"TraceParts.PartVersion";"1.0.1";"";
